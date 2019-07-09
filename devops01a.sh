@@ -22,3 +22,4 @@ ipconfig
 echo "------------------------" 
 
 echo "End of first script"
+| tee [/Users/13102/DEvOps01]
